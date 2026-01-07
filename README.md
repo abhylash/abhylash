@@ -9,91 +9,126 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 I design and build **end-to-end intelligent systems** — from real-time data pipelines to AI-powered decision engines to clean user-facing dashboards.
 
-I don’t just “code features.”  
-I focus on **system architecture, automation, performance, and maintainability**.
+I focus on:
+- **AI Agents & RAG systems**
+- **Scalable backend architectures**
+- **Data engineering pipelines**
+- **System design for performance, reliability, and automation**
 
-If it can’t scale, can’t be monitored, or can’t be deployed cleanly — I’m not interested.
-
----
-
-## 🎯 What I Work On
-
-- 🤖 AI systems: NLP, Computer Vision, RAG pipelines, AI agents  
-- ⚙️ Data engineering: real-time ETL, streaming, analytics workflows  
-- 🧩 System design: scalable backend architectures, APIs, integrations  
-- 🌐 Full-stack products: robust backend + usable frontend  
+If it’s not deployable, observable, and maintainable — it’s not done.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🔹 Programming
-- **Java, Python, MySQL**
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+---
 
 ### 🔹 Backend & APIs
-- **Node.js, Express.js, FastAPI, REST APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+</p>
+
+---
 
 ### 🔹 Frontend
-- **React.js, JavaScript, HTML, CSS, Bootstrap**
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+</p>
+
+---
 
 ### 🔹 AI / ML
-- **Machine Learning**
-- **Generative AI**
-- **NLP (Sentiment, Bias, Trust Detection)**
-- **RAG (Retrieval-Augmented Generation)**
-- **Computer Vision (YOLOv8)**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8-FF0000?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🔹 AI Agents & Automation
-- **AI Agent workflows**
-- **LLM-powered assistants**
-- **Automated querying & decision systems**
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Assistants-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-228B22?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🔹 Data Engineering
-- **Apache Kafka**
-- **Apache Spark**
-- **ETL Pipelines**
-- **Streaming & batch processing**
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spark" height="40"/>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streaming%20%26%20Batch-4682B4?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🔹 System Design
-- **Scalable architecture**
-- **Modular services**
-- **Data pipelines & workflow orchestration**
-- **Performance & reliability-focused design**
+<p>
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular%20Services-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance%20%26%20Reliability-2F4F4F?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🔹 Analytics & Cloud
-- **Power BI**
-- **AWS (Basics)**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+</p>
+
+---
 
 ### 🔹 Tools
-- **Git, GitHub, VS Code**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔷 Zobon — Real-Time Ethical Marketing Intelligence System
-> AI + Data Engineering + System Design
-
-- Engineered a **real-time ETL pipeline** processing **10,000+ records/day** using **Kafka & Spark**  
-- Built an **NLP engine** for **sentiment, trust, and bias detection** (~85% accuracy)  
-- Developed a **React.js dashboard** for live visualization of marketing intelligence  
-- Integrated a **RAG-based SQL assistant** for automated querying and system monitoring  
+- Real-time **ETL pipeline** (10k+ records/day) using **Kafka & Spark**
+- **NLP engine** for sentiment, trust, and bias detection (~85% accuracy)
+- **React dashboard** for live analytics
+- **RAG-based SQL assistant** for automated querying and monitoring  
 
 **Tech:** Kafka, Spark, NLP, RAG, React, SQL
 
 ---
 
 ### 🔷 AI-Powered Weed Detection & Management System
-> Computer Vision + Decision Automation
-
-- Built a **YOLOv8-based model** to detect and localize weeds in agricultural images  
-- Computed **weed density & severity scores** for data-driven decisions  
-- Implemented **rule-based AI recommendations** for manual removal vs herbicide spraying  
-- Developed a full-stack system using **FastAPI (backend)** and **React (frontend)**  
+- **YOLOv8-based computer vision** for weed detection
+- **Severity & density scoring** for decision-making
+- **Rule-based AI recommendations**
+- **FastAPI backend + React frontend**
 
 **Tech:** YOLOv8, Python, FastAPI, React
 
@@ -101,8 +136,8 @@ If it can’t scale, can’t be monitored, or can’t be deployed cleanly — I�
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — Yuva Entrepreneurs Makeathon (Deshpande Foundation)** for automation-based solution  
-- 🏅 **Top 20 Finalist — Epsilon Campus Hackathon** for real-time AI & data engineering system  
+- 🥇 **Winner — Yuva Entrepreneurs Makeathon (Deshpande Foundation)**  
+- 🏅 **Top 20 Finalist — Epsilon Campus Hackathon**
 
 ---
 
@@ -114,11 +149,12 @@ If it can’t scale, can’t be monitored, or can’t be deployed cleanly — I�
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect With Me
 
 - 💻 GitHub: https://github.com/abhylash  
 - 📧 Email: abhilashsw.mca24@rvce.edu.in  
 
 ---
 
-⭐ If you're interested in **AI agents, RAG systems, data pipelines, or scalable system design**, explore my repositories below.
+⭐ Interested in **AI agents, RAG systems, data pipelines, or scalable system design?**  
+Explore my repositories below.
